@@ -18,8 +18,8 @@ TOKEN = "6775360865:AAHx6kPD3hV2OeryxDXN_dbWhgHZI5D49BU"
 login_url = 'https://vadana48.ec.iau.ir/login/index.php'  # Replace with the actual login submission URL
 
 # Set your login credentials
-username = '40212340119148'
-password = '40212340119148'
+username = ''
+password = ''
 
 # Set the target URL
 target_url = 'https://vadana48.ec.iau.ir/course/view.php?id=12363'  # Replace with your actual target URL
