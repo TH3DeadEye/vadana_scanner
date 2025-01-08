@@ -12,7 +12,7 @@ import pytesseract
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Set your bot token
-TOKEN = "6775360865:AAHx6kPD3hV2OeryxDXN_dbWhgHZI5D49BU"
+TOKEN = 
 
 # Set the login URL
 login_url = 'https://vadana48.ec.iau.ir/login/index.php'  # Replace with the actual login submission URL
